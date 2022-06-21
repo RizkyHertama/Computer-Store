@@ -1,5 +1,5 @@
 # Computer-Store
-Pattern Software Design LC01 Document Project
+Pattern Software Design LC01 Project
 <br>
 Anggota Kelompok :
 <br>
